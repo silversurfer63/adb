@@ -47,7 +47,7 @@ In this step, you will set up access to the a bucket on Oracle Cloud Infrastruct
 
     ![Click CLOUD LOCATIONS](images/cloudstore.png)
 
-5. To add access to the files, click **+Create Cloud Store Loacation** in the top right of your screen.
+5. To add access to the files, click **+Create Cloud Store Location** in the top right of your screen.
 
 -   In the **Name** field, enter 'INFASampleData'
 
